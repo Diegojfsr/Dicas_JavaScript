@@ -11,7 +11,7 @@ A ideia aqui e começar com dicas simples e rápidas, focando em quem tem intere
 
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
- <li> Dica #1 - Pegar valor digitado utilizando JavaScript.<a href="[https://](https://github.com/Diegojfsr/Dicas_JavaScript/tree/main/Dica%231)">Acessar</a> </li>
+ <li> Dica #1 - Pegar valor digitado utilizando JavaScript.<a href="https://github.com/Diegojfsr/Dicas_JavaScript/tree/main/Dica%231">  Acessar  </a> </li>
 
 </ul>
 
